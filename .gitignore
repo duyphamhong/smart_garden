@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ToI.StormSpirit
+/bin
+/Embedded.Api/bin
+/Embedded.Api/obj
+/Embedded.Api/Embedded.Api.csproj.user
+/Identity.Api/bin
+/Identity.Api/obj
+/Identity.Api/Identity.Api.csproj.user
+/obj
+/ToI.StormSpirit.sln.DotSettings.user
+/Customer.Api/bin/Release/netcoreapp3.0
+/Customer.Api/obj
+/Customer.Api/Customer.Api.csproj.user

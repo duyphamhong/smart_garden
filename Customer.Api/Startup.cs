@@ -49,9 +49,7 @@ namespace Customer.Api
             }
 
             app.UseCors("CorsPolicy");
-
-            app.UseMvcWithDefaultRoute();
-
+            
             app.UseSwagger()
                 .UseSwaggerUI(c =>
                 {
